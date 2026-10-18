@@ -1,4 +1,4 @@
-# MRend :)
+# MRend
 
 Turn Roblox models into clean, high quality icons
 
