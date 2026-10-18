@@ -1,6 +1,6 @@
 # MRend :)
 
-Turn Roblox models into clean, high~quality icons
+Turn Roblox models into clean, high quality icons
 
 ## ~> Tutorial
 
@@ -13,7 +13,7 @@ Turn Roblox models into clean, high~quality icons
 
 ### 3. Import Roblox Models
 ~ Open Roblox Studio and find your model in the **Explorer**.
-~ Right~click the model ~> **Export Selection** ~> export it as an `.obj` file.
+~ Right click the model ~> **Export Selection** ~> export it as an `.obj` file.
 ~ Save the export into the `Export` folder inside your MRend directory.
 ~ Your model should automatically appear in the export list.
 
