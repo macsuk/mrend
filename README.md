@@ -39,9 +39,9 @@ Turn Roblox models into clean, high quality icons
 }
 ```
 
-~> **Important:** Change `D:\\MRend\\` to your actual MRend installation path if it's different.
+~> **Important:** Change `D:\\MRend\\` to your actual MRend installation path if it's different.  
 ~> After that you must restart your claude fully.
 
 ## Claude Designs
-~ Claude Designs will make claude adjust the rotation/zoom/lighting based on your game style.
+~ Claude Designs will make claude adjust the rotation/zoom/lighting based on your game style.  
 ~ If Claude Design is disabled he will ask you to rotate it and then chat will continue when you done.
